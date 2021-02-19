@@ -4,4 +4,4 @@ metadata:
   name: customer-service
 data:
   application.properties: |-
-    environment.name=staging
+    quarkus.profile=staging
