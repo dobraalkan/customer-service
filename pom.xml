@@ -102,10 +102,10 @@
     </dependency>
     <!--open API-->
     <!--kubernetes-->
-    <dependency>
+<!--    <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-kubernetes-config</artifactId>
-    </dependency>
+    </dependency>-->
     <!--kubernetes-->
     <!--other-->
     <dependency>
