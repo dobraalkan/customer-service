@@ -101,6 +101,12 @@
       <version>1.5.22</version>
     </dependency>
     <!--open API-->
+    <!--kubernetes-->
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-kubernetes-config</artifactId>
+    </dependency>
+    <!--kubernetes-->
     <!--other-->
     <dependency>
       <groupId>io.quarkus</groupId>

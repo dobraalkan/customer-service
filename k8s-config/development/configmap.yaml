@@ -4,7 +4,4 @@ metadata:
   name: customer-service
 data:
   application.properties: |-
-    maxilog.keycloak.realm=local
-    quarkus.log.category."io.maxilog".level=DEBUG
-    quarkus.log.category."org.apache.kafka".level=INFO
-    quarkus.log.level=DEBUG
+    environment.name=dev
